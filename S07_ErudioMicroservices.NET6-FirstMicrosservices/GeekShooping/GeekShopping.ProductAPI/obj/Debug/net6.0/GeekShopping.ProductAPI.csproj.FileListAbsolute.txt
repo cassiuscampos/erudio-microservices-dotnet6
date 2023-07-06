@@ -55,3 +55,10 @@ C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicr
 C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.Text.Json.dll
 C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\GIT\UDEMY\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

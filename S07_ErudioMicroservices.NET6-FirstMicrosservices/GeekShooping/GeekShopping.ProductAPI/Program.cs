@@ -3,6 +3,12 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//CONEXAO
+var connection = builder.Configuration["MySQlConnection:MySQlConnectionString"];
+builder.Services.AddDbContext<MySQLContext>(options => options.
+    UseMySql(connection, new MySqlServerVersion(new Version(8, 0, 5))));
+
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -10,10 +16,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//CONEXAO
-var connection = builder.Configuration["MySQlConnection:MySQlConnectionString"];
-builder.Services.AddDbContext<MySQLContext>(options => options.
-    UseMySql(connection,new MySqlServerVersion(new Version(8,0,5))));
 
 var app = builder.Build();
 
